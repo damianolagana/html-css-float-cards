@@ -21,7 +21,7 @@ h1{
 }
 
 /* Paragrafo */
-p{
+#mainp{
     text-align: center;
     font-family: cursive;
     margin-bottom: 50px;
@@ -47,4 +47,20 @@ p{
 
 img{
     height: 103px;
+}
+
+.info{
+    float: right;
+    font-family: cursive;
+    padding: 20px;
+}
+
+a{
+    color: #39b8f6;
+    text-decoration: none;
+}
+
+.info :first-child{
+    font-weight: 800;
+    
 }
