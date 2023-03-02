@@ -19,3 +19,32 @@ header{
 h1{
     color: #e42569;                                   
 }
+
+/* Paragrafo */
+p{
+    text-align: center;
+    font-family: cursive;
+    margin-bottom: 50px;
+}
+
+/* CARDS */
+.card{
+    width: 340px;
+    background-color: black;
+    color: white;
+    float: left;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+.M1, .F2{
+    margin-left: 0;
+}
+
+.M2, .F3{
+    margin-right: 0;
+}
+
+img{
+    height: 103px;
+}
