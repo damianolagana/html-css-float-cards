@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Bcontainer{
+    width: 1100px;
+    margin: auto;
+}
+
+/* TITOLO */
+header{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+h1{
+    color: #e42569;                                   
+}
