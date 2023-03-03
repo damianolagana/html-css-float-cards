@@ -17,7 +17,8 @@ header{
 }
 
 h1{
-    color: #e42569;                                   
+    color: #e42569; 
+    font-family: 'Fredoka', sans-serif;                                  
 }
 
 /* Paragrafo */
@@ -50,13 +51,14 @@ h1{
 img{
     height: 109px;
     float: left;
+    margin-right: 10px;
 }
 
 .info{
     float: left;
     font-family: cursive;
-    padding: 20px;
-   
+    padding: 6px;
+   line-height: 32px;
 }
 
 a{
@@ -67,4 +69,9 @@ a{
 .info :first-child{
     font-weight: 800;
     
+}
+
+.cardsec{
+    clear: both;
+    height: 400px;
 }
